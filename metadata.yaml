@@ -1,0 +1,35 @@
+_repo: The-Street-Called-Straight_14394
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Lowell, Orson
+    birthdate: 1871
+    deathdate: 1956
+    gutenberg_agent_id: '8723'
+    url: http://www.gutenberg.org/2009/agents/8723
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: King, Basil
+    alias: King, William Benjamin Basil
+    birthdate: 1859
+    deathdate: 1928
+    gutenberg_agent_id: '3214'
+    url: http://www.gutenberg.org/2009/agents/3214
+description: ''
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2004-12-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14394'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Canadian fiction'
+title: The Street Called Straight
+url: http://www.gutenberg.org/ebooks/14394
